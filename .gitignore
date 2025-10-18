@@ -175,7 +175,7 @@ __marimo__/
 ._*
 .AppleDouble
 
-# Codio
-.codio/
+# Codio and guides (ignore these folders anywhere)
+.codio
+.settings
 .guides/
-.settings/
